@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "mcp-dev-test"
+  site-url: "https://HasanGoni.github.io/mcp-dev-test"
+  description: "MCP will be tested"
+  repo-branch: main
+  repo-url: "https://github.com/HasanGoni/mcp-dev-test"
