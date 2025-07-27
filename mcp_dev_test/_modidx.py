@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://HasanGoni.github.io',
                 'git_url': 'https://github.com/HasanGoni/mcp-dev-test',
                 'lib_path': 'mcp_dev_test'},
-  'syms': {'mcp_dev_test.core': {'mcp_dev_test.core.foo': ('core.html#foo', 'mcp_dev_test/core.py')}}}
+  'syms': { 'mcp_dev_test.core': {'mcp_dev_test.core.foo': ('core.html#foo', 'mcp_dev_test/core.py')},
+            'mcp_dev_test.deeplearning_course.lesson6': {}}}
